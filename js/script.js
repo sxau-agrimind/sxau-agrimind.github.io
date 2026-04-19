@@ -224,7 +224,7 @@ const DATA = {
     { year: "2022", venue: "EMNLP", title: "Transformer-based Entity Typing in Knowledge Graphs", authors: "Zhiwei Hu, Víctor Gutiérrez-Basulto, Zhiliang Xiang, Ru Li, Jeff Z. Pan.", badges: [{ text: "CCF-B", highlight: true }, { text: "知识表示", highlight: false }, { text: "实体类型推理", highlight: false }] },
     { year: "2022", venue: "IJCAI", title: "Type-aware Embeddings for Multi-Hop Reasoning over Knowledge Graphs", authors: "Zhiwei Hu, Víctor Gutiérrez-Basulto, Zhiliang Xiang, Xiaoli Li, Ru Li, Jeff Z. Pan.", badges: [{ text: "CCF-B", highlight: true }, { text: "知识表示", highlight: false }, { text: "复杂查询问答", highlight: false }] },
     { year: "2021", venue: "Computers and Electronics in Agriculture", title: "Dual Attention-guided Feature Pyramid Network for Instance Segmentation of Group Pigs", authors: "Zhiwei Hu, Hua Yang, Tiantian Lou.", badges: [{ text: "SCI 1区Top", highlight: true }, { text: "计算机视觉", highlight: false }, { text: "注意力机制", highlight: false }] },
-    { year: "2021", venue: "农业工程学报", title: "采用双重注意力特征金字塔网络检测群养生猪", authors: "胡志伟, 杨华, 娄甜田.", badges: [{ text: "EI", highlight: true }, { text: "计算机视觉", highlight: false }, { text: "注意力机制", highlight: false }] },
+    { year: "2021", venue: "农业工程学报", title: "采用双重注意力特征金字塔网络检测群养生猪", authors: "胡志伟, 杨华, 娄甜田.", badges: [{ text: "EI", highlight: true }, { text: "计算机视觉", highlight: false }, { text: "注意力机制", highlight: false }] }
   competitions: [
     { type: "gold", title: "CVPR 2024 农业遥感图像解译挑战赛", award: "全国一等奖 (金奖)", desc: "提出分层视觉Transformer架构，在作物器官分割任务中取得精度第一的成绩。" },
     { type: "silver", title: "中国智能农业装备创新大赛", award: "全国二等奖 (银奖)", desc: "研发果园巡检机器人导航系统，获农业农村部颁发的创新奖项。" },
