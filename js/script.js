@@ -191,7 +191,7 @@ const DATA = {
     { icon: "🧠", title: "知识表示与认知推理", desc: "面向领域知识图谱构建与实际应用场景，融合大语言模型，研究复杂关系建模、知识对齐与多步推理方法，提升系统在问答、决策等任务中的准确性与可解释性。",},
   ],
   teachers: [
-    { avatar: "👤", name: "胡志伟 副教授", role: "硕士生导师，山西省后稷实验室固定成员，中国计算机学会会员，爱丁堡大学、卡迪夫大学访问学者", desc: "研究方向为智能育种、知识表示与推理。以第一作者身份在KDD、IJCAI、EMNLP、 CIKM、Neurocomputing、International Journal of Agricultural and Biological Engineering、Computers and Electronics in Agriculture、农业工程学报等CCF A/B类顶级会议及SCI期刊发表10余篇论文。主导研发了后稷农业大模型、稷丰多模态农业大模型，长期担任国际会议NeurIPS、ACL、KDD、AAAI、IJCAI、EMNLP等审稿人。", email: "<a href=\"mailto:zhiweihu@whu.edu.cn\">zhiweihu@whu.edu.cn</a>"},
+    { avatar: '<img src="img/胡志伟.jpg">', name: "胡志伟 副教授", role: "硕士生导师，山西省后稷实验室固定成员，中国计算机学会会员，爱丁堡大学、卡迪夫大学访问学者", desc: "研究方向为智能育种、知识表示与推理。以第一作者身份在KDD、IJCAI、EMNLP、 CIKM、Neurocomputing、International Journal of Agricultural and Biological Engineering、Computers and Electronics in Agriculture、农业工程学报等CCF A/B类顶级会议及SCI期刊发表10余篇论文。主导研发了后稷农业大模型、稷丰多模态农业大模型，长期担任国际会议NeurIPS、ACL、KDD、AAAI、IJCAI、EMNLP等审稿人。", email: "<a href=\"mailto:zhiweihu@whu.edu.cn\">zhiweihu@whu.edu.cn</a>"},
   ],
   cooperation: [
     { avatar: "👤", name: "李茹 山西大学教授", role: "二级教授，博士生导师，享受国务院政府特殊津贴专家", desc: "山西大学学术委员会委员，计算机分学术委员会主任委员，山西省高等学校教学名师，山西省委直接联系高级专家，全国万名优秀创新创业导师，曾任山西大学计算机与信息技术学院副院长。现任中国中文信息学会常务理事，中国中文信息学会信息检索常务委员会委员及专业委员会委员，中国中文信息学会计算语言学、语言与知识计算专业委员会委员，山西省物联网和人工智能标准化技术委员会副主任委员，山西省计算机类专业教学指导委员会秘书长。是山西省高等学校拔尖创新人才、山西省学术技术带头人，中国宝钢教育奖优秀教师奖获得者。长期与美国加州大学伯克利分校（UC Berkeley）、英国爱丁堡大学（The University of Edinburgh）、新加坡科技局资讯通信研究院（A*STAR-I2R）进行合作研究。",},
