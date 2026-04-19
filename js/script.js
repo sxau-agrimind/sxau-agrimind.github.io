@@ -215,11 +215,11 @@ const DATA = {
   papers: [
 {year: "2026", venue: "Neurocomputing",
  title: "Leveraging Intra-modal and Inter-modal Interaction for Multi-Modal Entity Alignment",
- authors: "Zhiwei Hu, Víctor Gutiérrez-Basulto, Zhiliang Xiang, Ru Li, Jeff Z. Pan.",
+ authors: "<strong>Zhiwei Hu</strong>, Víctor Gutiérrez-Basulto, Zhiliang Xiang, Ru Li*, Jeff Z. Pan*.",
  badges: [{text: "SCI 2区", highlight: true}, {text: "知识图谱", highlight: false},
           {text: "实体对齐", highlight: false}]},
 {year: "2025", venue: "KDD", title: "Multi-level Mixture of Experts for Multimodal Entity Linking",
- authors: "Zhiwei Hu, Víctor Gutiérrez-Basulto, Zhiliang Xiang, Ru Li, Jeff Z. Pan.",
+ authors: "Zhiwei Hu, Víctor Gutiérrez-Basulto, Zhiliang Xiang, Ru Li*, Jeff Z. Pan*.",
  badges: [{text: "CCF-A", highlight: true}, {text: "知识图谱", highlight: false},
           {text: "多模态实体链接", highlight: false}]},
 {year: "2025", venue: "KDD", title: "Multi-level Matching Network for Multimodal Entity Linking",
