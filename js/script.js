@@ -255,7 +255,7 @@ const DATA = {
           {text: "实体类型推理", highlight: false}]},
 {year: "2022", venue: "IJCAI", title: "Type-aware Embeddings for Multi-Hop Reasoning over Knowledge Graphs",
  authors: "<strong>Zhiwei Hu</strong>, Víctor Gutiérrez-Basulto, Zhiliang Xiang, Xiaoli Li, Ru Li*, Jeff Z. Pan*.",
- badges: [{text: "CCF-B", highlight: true}, {text: "知识表示", highlight: false},
+ badges: [{text: "CCF-A", highlight: true}, {text: "知识表示", highlight: false},
           {text: "复杂查询问答", highlight: false}]},
 {year: "2021", venue: "COMPAG",
  title: "Dual Attention-guided Feature Pyramid Network for Instance Segmentation of Group Pigs",
