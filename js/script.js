@@ -43,7 +43,6 @@ function renderCooperationGrid(cooperationData) {
           <h4>${item.name}</h4>
           <p class="role">${item.role}</p>
           <p class="desc">${item.desc}</p>
-          <p class="email">📧 ${item.email}</p>
         </div>
       </div>
     `;
