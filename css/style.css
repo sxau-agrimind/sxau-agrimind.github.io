@@ -523,7 +523,7 @@ section {
 
 .team-avatar-teacher {
   width: 180px;
-  height: auto;
+  align-self: stretch;
   background: linear-gradient(135deg, var(--gray-200) 0%, var(--gray-100) 100%);
   display: flex;
   align-items: center;
