@@ -191,13 +191,14 @@ const DATA = {
     { icon: "🧠", title: "知识表示与认知推理", desc: "面向领域知识图谱构建与实际应用场景，融合大语言模型，研究复杂关系建模、知识对齐与多步推理方法，提升系统在问答、决策等任务中的准确性与可解释性。",},
   ],
   teachers: [
-    { avatar: '<img src="img/胡志伟.jpg">', name: "胡志伟 副教授", role: "硕士生导师，山西省后稷实验室固定成员，中国计算机学会会员，爱丁堡大学、卡迪夫大学访问学者", desc: "研究方向为智能育种、知识表示与推理。以第一作者身份在KDD、IJCAI、EMNLP、 CIKM、Neurocomputing、International Journal of Agricultural and Biological Engineering、Computers and Electronics in Agriculture、农业工程学报等CCF A/B类顶级会议及SCI期刊发表10余篇论文。主导研发了后稷农业大模型、稷丰多模态农业大模型，长期担任国际会议NeurIPS、ACL、KDD、AAAI、IJCAI、EMNLP等审稿人。", email: "<a href=\"mailto:zhiweihu@whu.edu.cn\">zhiweihu@whu.edu.cn</a>"},
+    { avatar: '<img src="img/胡志伟.jpg">', name: "胡志伟 副教授", role: "硕士生导师，山西省后稷实验室（杂粮生物育种山西省实验室）固定成员，中国计算机学会会员，爱丁堡大学、卡迪夫大学访问学者", desc: "研究方向为智能育种、知识表示与推理。以第一作者身份在KDD、IJCAI、EMNLP、 CIKM、Neurocomputing、International Journal of Agricultural and Biological Engineering、Computers and Electronics in Agriculture、农业工程学报等CCF A/B类顶级会议及SCI期刊发表10余篇论文。主导研发了后稷农业大模型、稷丰多模态农业大模型，长期担任国际会议NeurIPS、ACL、KDD、AAAI、IJCAI、EMNLP等审稿人。", email: "<a href=\"mailto:zhiweihu@whu.edu.cn\">zhiweihu@whu.edu.cn</a>"},
   ],
   cooperation: [
     { avatar: '<img src="img/李茹.png">', name: "李茹 山西大学教授", role: "二级教授，博士生导师，享受国务院政府特殊津贴专家", desc: "山西大学学术委员会委员，计算机分学术委员会主任委员，山西省高等学校教学名师，山西省委直接联系高级专家，全国万名优秀创新创业导师，曾任山西大学计算机与信息技术学院副院长。现任中国中文信息学会常务理事，中国中文信息学会信息检索常务委员会委员及专业委员会委员，中国中文信息学会计算语言学、语言与知识计算专业委员会委员，山西省物联网和人工智能标准化技术委员会副主任委员，山西省计算机类专业教学指导委员会秘书长。是山西省高等学校拔尖创新人才、山西省学术技术带头人，中国宝钢教育奖优秀教师奖获得者。长期与美国加州大学伯克利分校、英国爱丁堡大学、新加坡科技局资讯通信研究院进行合作研究。",},
     { avatar: '<img src="img/jeff pan.jpeg">', name: "Jeff Z. Pan 爱丁堡大学教授", role: "博士生导师，教育部长江学者讲座教授", desc: "山西大学“海外长江学者奖励计划”讲席教授、英国University of Edinburgh终身教授，同时担任Alan Turing Institute知识图谱方向负责人、华为爱丁堡知识图谱实验室主任、华为英国首席搜索科学家，以及欧盟玛丽·居里K-Drive项目首席科学家；在知识图谱研究领域拥有超过20年的经验，参与并推动了RDF、OWL和SPARQL等标准的发展，在知识表示、基于知识的学习以及基于知识的自然语言处理等领域发表了200余篇高水平论文，并担任顶级知识图谱期刊TGDKS和JWS的副主编，主持多个该领域的重要国际会议，如ISWC、IJCKG和ICCKS等。",},
     { avatar: '<img src="img/victor.avif">', name: "Victor Gutierrez Basulto 卡迪夫大学副教授", role: "博士生导师", desc: "现任Cardiff University计算机科学与信息学院副教授兼Director of Research，曾在University of Bremen等高校学习和从事研究工作；长期从事人工智能领域知识表示与推理、知识图谱、语义网、查询回答与表示学习等方向研究，在相关国际会议与期刊（如KR、AAAI、IJCAI等）发表多篇论文，研究工作主要围绕描述逻辑与知识图谱推理方法的发展，以推动神经符号人工智能（neuro-symbolic AI）在复杂数据场景中的应用；曾担任多个国际会议程序委员会成员等学术服务职务，并参与多项科研项目，与学术界保持活跃合作。",},
     { avatar: '<img src="img/谢倩倩.png">', name: "谢倩倩 武汉大学教授", role: "博士生导师，语言与信息中心副主任，国家高层次青年人才项目（海外）", desc: "曾任耶鲁大学副研究科学家，并在康奈尔大学、蒙特利尔大学、曼彻斯特大学工作与访问。长期从事自然语言处理的研究，在国际顶级会议NeurIPS/ACL/EMNLP/NAACL/KDD/SIGIR/WWW和国际顶级期刊Nature Communications/npj Digital Medicine/TOIS/TKDE等发表论文60余篇。中文信息学会社交媒体处理专委会委员，中文信息学会医疗健康与生物信息处理专委会委员。获得湖北省科技进步二等奖1项，CCL 2024亮点英文论文奖，主持2025年CCF-腾讯犀牛鸟基金项目。和曼彻斯特大学、耶鲁大学、NYU、哈佛、哥大、明尼苏达大学、蒙特利尔大学等国内外高校保持长期合作。",},
+    { avatar: '<img src="img/高建华.png">', name: "高建华 山西农业大学教授", role: "博士生导师，山西省“三晋英才”，山西省后稷实验室（杂粮生物育种山西省实验室）固定成员", desc: "主要研究方向：1）谷子特色性状相关基因的开发和利用；2）生物育种及相关技术研究。主讲本科生《生物化学》和《生命科学导论》等课程。主讲研究生《研究生常用软件及其应用案例》。",},
   ],
   students: [
     { avatar: '<img src="img/杨森杰.jpg">', name: "杨森杰", university: "山西大学", role: "硕士生 (2025级)", desc: "研究方向：多组学分析与杂粮智能育种、基因组基础模型构建。",},
