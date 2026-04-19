@@ -257,7 +257,7 @@ const DATA = {
  authors: "Zhiwei Hu, Víctor Gutiérrez-Basulto, Zhiliang Xiang, Xiaoli Li, Ru Li, Jeff Z. Pan.",
  badges: [{text: "CCF-B", highlight: true}, {text: "知识表示", highlight: false},
           {text: "复杂查询问答", highlight: false}]},
-{year: "2021", venue: "Computers and Electronics in Agriculture",
+{year: "2021", venue: "COMPAG",
  title: "Dual Attention-guided Feature Pyramid Network for Instance Segmentation of Group Pigs",
  authors: "Zhiwei Hu, Hua Yang, Tiantian Lou.",
  badges: [{text: "SCI 1区Top", highlight: true}, {text: "计算机视觉", highlight: false},
