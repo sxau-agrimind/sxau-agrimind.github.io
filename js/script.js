@@ -210,7 +210,7 @@ const DATA = {
     { avatar: '<img src="img/郝志超.jpg">', name: "郝志超", university: "山西农业大学", role: "硕士生 (2026级)", desc: "研究方向：杂粮育种智能体研发、多智能体协同。",},
   ],
   undergrads: [
-    { avatar: '<img src="img/王景源.jpg">', name: "王景源", university: "山西农业大学", role: "大一 / 计算机科学", desc: "学科竞赛、大模型基础知识学习",},
+    { avatar: '<img src="img/王景源.jpg">', name: "王景源", university: "山西农业大学", role: "本科生 （2025级）", desc: "学科竞赛、大模型基础知识学习",},
   ],
   papers: [
 {year: "2026", venue: "Neurocomputing",
